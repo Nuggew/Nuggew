@@ -11,8 +11,10 @@
 
 ### Tech I use:
 <div style="display: inline_block">
-	<a href="" style="user-select: none;"><img align="center" alt="PHP MyAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
+	<a href="#" style="user-select: none;"><img align="center" alt="PHP MyAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
     <a href="#"><img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
     <a href="#""><img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
     <a href="#"><img align="center" alt=".NET Framework" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
     <a href="#"><img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
@@ -23,6 +25,9 @@
     <a href="#"><img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /></a>
     <a href="#"><img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5D2B90?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
     <a href="#"><img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="Apache" src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="Apache" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /></a>
 </div>
 
 <br>
