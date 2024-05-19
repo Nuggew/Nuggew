@@ -35,7 +35,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nuggew)
 <!--[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Vercel.com/leonardovbrum)-->
 
-<a href="#">
+<a href="#" style="cursor: none; user-select: none; user-event: none;">
 <div style="display: flex; flex-direction: column; width: max-content;">
     <div style="display: flex; flex-direction: row">
         <img
