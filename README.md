@@ -1,4 +1,4 @@
-## Hello! I'm known Nuggew! 👋
+## Hello! I'm known as Nuggew! 👋
 
 ### Specializations:
 <div style="display: inline_block">
