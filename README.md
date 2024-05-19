@@ -36,7 +36,7 @@
 <!--[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Vercel.com/leonardovbrum)-->
 
 <a href="#">
-<div style="display: flex; flex-direction: column">
+<div style="display: flex; flex-direction: column; width: max-content;">
     <div style="display: flex; flex-direction: row">
         <img
 	    style="min-width: 134px; max-height: 134px;"
