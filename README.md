@@ -1,4 +1,4 @@
-## Hello! I'm Guilherme, most known as Nuggew! 👋
+## Hello! I'm known Nuggew! 👋
 
 ### Specializations:
 <div style="display: inline_block">
