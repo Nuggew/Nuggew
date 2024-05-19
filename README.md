@@ -6,11 +6,12 @@
     <a href="#"><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
     <a href="#"><img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
     <a href="#"><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" /></a>
 </div>
 
 ### Tech I use:
 <div style="display: inline_block">
-	<a href="" style="user-select: none;"><img align="center" alt="PHP MyAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=black" /></a>
+	<a href="" style="user-select: none;"><img align="center" alt="PHP MyAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
     <a href="#"><img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
     <a href="#""><img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
     <a href="#"><img align="center" alt=".NET Framework" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
