@@ -8,7 +8,7 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".NET Framework" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=reactjs&logoColor=white" />
+  <img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-black?style=for-the-badge&logo=react&logoColor=white" />
 </div><br/>
 <br>
 
