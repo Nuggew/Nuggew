@@ -12,9 +12,6 @@
 ### Tech I use:
 <div style="display: inline_block">
 	<a href="#" style="user-select: none;"><img align="center" alt="PHP MyAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="MariaDB" src="https://img.shields.io/badge/MariaDB-01529E?style=for-the-badge&logo=mariadb&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
     <a href="#""><img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
     <a href="#"><img align="center" alt=".NET Framework" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
     <a href="#"><img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
