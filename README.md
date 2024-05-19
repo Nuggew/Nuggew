@@ -20,6 +20,7 @@
 ### Tools I use:
 <div style="display: inline_block">
     <a href="" style="user-select: none;"><img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /></a>
+	<a href="" style="user-select: none;"><img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5D2B90?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
     <a href="" style="user-select: none;"><img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
 </div>
 
@@ -36,7 +37,7 @@
         <img
 	    style="min-width: 134px; max-height: 134px;"
 	    width="320"
-            src="https://lanyard-profile-readme.vercel.app/api/568473734495731743?theme=dark&bg=000000&animated=false&borderRadius=10px"
+            src="https://lanyard-profile-readme.vercel.app/api/568473734495731743?theme=dark&bg=000000&animated=true&borderRadius=10px"
          />
          <img
 	        style="min-width: 164px;"
