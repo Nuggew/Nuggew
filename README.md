@@ -38,10 +38,13 @@
 <a href="#" style="cursor: none; user-select: none; user-event: none;">
 <div style="display: flex; flex-direction: column; width: max-content;">
     <div style="display: flex; flex-direction: row">
+	 <img
+	        height="217"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nuggew&theme=2077"
+          />
          <img
-	        style="min-width: 164px;"
-	        height="164"
-            src="https://streak-stats.demolab.com/?user=Nuggew&theme=shadow_purple&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+	        height="217"
+            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nuggew&theme=2077"
           />
        </div>
        <div style="display: flex; flex-direction: column">
