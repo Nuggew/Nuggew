@@ -38,11 +38,6 @@
 <a href="#" style="cursor: none; user-select: none; user-event: none;">
 <div style="display: flex; flex-direction: column; width: max-content;">
     <div style="display: flex; flex-direction: row">
-        <img
-	    style="min-width: 134px; max-height: 134px;"
-	    width="320"
-            src="https://lanyard-profile-readme.vercel.app/api/568473734495731743?theme=dark&bg=000000&animated=true&borderRadius=10px"
-         />
          <img
 	        style="min-width: 164px;"
 	        height="164"
