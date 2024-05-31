@@ -11,7 +11,7 @@
 
 ### Tech I use:
 <div style="display: inline_block">
-	<a href="#" style="user-select: none;"><img align="center" alt="PHP MyAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="PHP MyAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
     <a href="#""><img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
     <a href="#"><img align="center" alt=".NET Framework" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
     <a href="#"><img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
@@ -30,12 +30,17 @@
 <br>
 
 ## More about me:
-<!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/leonardo-brum-13523a25b/)-->
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nuggew)
-[![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nuggew)
-<!--[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Vercel.com/leonardovbrum)-->
+<div style="display: inline_block;" align="center">
+    <a href="https://www.youtube.com/@nuggew"><img align="center" width="50px" alt="YouTube" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" /></a>
+    <a href="https://www.twitch.tv/nuggew"><img align="center" width="50px" alt="Twitch" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" /></a>
+    <!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/leonardo-brum-13523a25b/)
+    [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nuggew)
+    [![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nuggew)
+    [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Vercel.com/Nuggew)-->
+</div>
+<br>
 
-<a href="#" style="cursor: none; user-select: none; user-event: none;">
+<a href="#" style="cursor: none; user-select: none; user-event: none;" align="center">
 <div style="display: flex; flex-direction: column; width: max-content;">
     <div style="display: flex; flex-direction: row">
 	 <img
