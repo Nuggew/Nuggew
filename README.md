@@ -7,6 +7,7 @@
     <a href="#"><img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
     <a href="#"><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
     <a href="#"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="LUA" src="https://img.shields.io/badge/LUA-00007E?style=for-the-badge&amp;logo=lua&amp;logoColor=white" /></a>
 </div>
 
 ### Tech I use:
