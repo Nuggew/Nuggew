@@ -61,3 +61,14 @@
     </div>
 </div>
 </a>
+
+<a href="#" style="cursor: none; user-select: none; user-event: none;" align="center">
+<div style="display: flex; flex-direction: column; width: max-content;">
+    <div style="display: flex; flex-direction: row">
+	<img
+	        height="217"
+            src="https://lanyard.cnrad.dev/api/568473734495731743"
+        />
+    </div>
+</div>
+</a>
