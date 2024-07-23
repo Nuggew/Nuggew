@@ -3,8 +3,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nuggew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true" height="150" alt="languages graph"  />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Nuggew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=true" height="150" alt="stats graph"  /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=true" height="150" alt="languages graph"  /></a>
 </div>
 
 ###
@@ -58,9 +58,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuggew&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  />
-  <img src="https://lanyard.cnrad.dev/api/568473734495731743"
-  height="217"  />
+  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuggew&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  /></a>
+  <a href="#"><img src="https://lanyard.cnrad.dev/api/568473734495731743"
+  height="217"  /></a>
 </div>
 
 ###
