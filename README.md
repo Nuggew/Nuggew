@@ -1,75 +1,91 @@
-## Hello! I'm known as Nuggew! 👋
+<h2 align="left">Hi, I'm Nuggew! 👋</h2>
 
-### Specializations:
-<div style="display: inline_block">
-    <a href="#"><img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
-    <a href="#"><img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="Python" src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="LUA" src="https://img.shields.io/badge/LUA-00007E?style=for-the-badge&amp;logo=lua&amp;logoColor=white" /></a>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nuggew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-### Tech I use:
-<div style="display: inline_block">
-    <a href="#""><img align="center" alt="Node.JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /></a>
-    <a href="#"><img align="center" alt=".NET Framework" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="ReactJS" src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black" /></a>
+###
+
+<img align="right" height="150" src="https://github.com/Nuggew/Nuggew/blob/main/pfp0.png?raw=true"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="30" alt="jquery logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="30" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
 </div>
 
-### Tools I use:
-<div style="display: inline_block">
-    <a href="#"><img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="Visual Studio" src="https://img.shields.io/badge/Visual_Studio-5D2B90?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="Visual Studio Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="PHP MyAdmin" src="https://img.shields.io/badge/-PHP%20myAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="VirtualBox" src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="Apache" src="https://img.shields.io/badge/Apache-CA2136?style=for-the-badge&logo=apache&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="Git" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" /></a>
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-<br>
+###
 
-## More about me:
-<div style="display: inline_block;" align="center">
-    <a href="https://www.youtube.com/@nuggew"><img align="center" width="50px" alt="YouTube" src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" /></a>
-    <a href="https://www.twitch.tv/nuggew"><img align="center" width="50px" alt="Twitch" src="https://cdn-icons-png.flaticon.com/512/5968/5968819.png" /></a>
-    <!--[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://https://www.linkedin.com/in/leonardo-brum-13523a25b/)
-    [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@nuggew)
-    [![Twitch](https://img.shields.io/badge/Twitch-6441A5?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/nuggew)
-    [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Vercel.com/Nuggew)-->
-</div>
-<br>
+<br clear="both">
 
-<a href="#" style="cursor: none; user-select: none; user-event: none;" align="center">
-<div style="display: flex; flex-direction: column; width: max-content;">
-    <div style="display: flex; flex-direction: row">
-	 <img
-	        height="217"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nuggew&theme=2077"
-          />
-         <img
-	        height="217"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nuggew&theme=2077"
-          />
-       </div>
-       <div style="display: flex; flex-direction: column">
-          <img
-	        width="743"
-            src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nuggew&theme=2077"
-          />
-    </div>
-</div>
-</a>
+<img src="https://raw.githubusercontent.com/Nuggew/Nuggew/output/snake.svg" alt="Snake animation" />
 
-<a href="#" style="cursor: none; user-select: none; user-event: none;" align="center">
-<div style="display: flex; flex-direction: column; width: max-content;">
-    <div style="display: flex; flex-direction: row">
-	<img
-	        height="217"
-            src="https://lanyard.cnrad.dev/api/568473734495731743"
-        />
-    </div>
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuggew&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://lanyard.cnrad.dev/api/568473734495731743"
+  height="217"  />
 </div>
-</a>
+
+###
