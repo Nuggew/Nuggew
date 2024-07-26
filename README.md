@@ -59,8 +59,6 @@
 
 <div align="center">
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuggew&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  /></a>
-  <a href="#"><img src="https://lanyard.cnrad.dev/api/568473734495731743"
-  height="217"  /></a>
 </div>
 
 ###
