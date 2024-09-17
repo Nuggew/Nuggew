@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://github.com/Nuggew/Nuggew/blob/main/pfp0.png?raw=true"  />
+<!--<img align="right" height="150" src="https://github.com/Nuggew/Nuggew/blob/main/pfp0.png?raw=true"  />-->
 
 ###
 
