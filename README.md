@@ -1,19 +1,13 @@
 <h2 align="left">Hi, I'm Nuggew! 👋</h2>
 
+
+
 ###
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Nuggew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  /></a>
-</div>
+<img height="150" src="https://github.com/Nuggew/Nuggew/blob/main/me_irl.webp?raw=true"  />
 
-###
-
-<img align="right" height="150" src="https://github.com/Nuggew/Nuggew/blob/main/me_irl.webp?raw=true"  />
-
-###
-
-<div align="left">
+<div>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
@@ -28,6 +22,14 @@
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /></a>
   <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  /></a>
 </div>
+</div>
+
+###
+
+<div align="center">
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Nuggew&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  /></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  /></a>
+</div>
 
 ###
 
@@ -40,7 +42,7 @@
 </div>
 </a>-->
 
-###
+<!--###
 
 <br clear="both">
 
@@ -50,4 +52,4 @@
   <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuggew&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  /></a>
 </div>
 
-###
+###-->
