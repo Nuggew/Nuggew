@@ -35,7 +35,7 @@
 
 <div align="center">
   <h3>What am I listening to?</h3>
-  <a href="https://www.vercel.com/nuggew"><img src="https://github-ytmusic-status.vercel.app/?username=Nuggew"></img></a>
+  <a href="https://github-ytmusic-status.vercel.app/api/goto?username=Nuggew"><img src="https://github-ytmusic-status.vercel.app/?username=Nuggew"></img></a>
 </div>
 
 ###
