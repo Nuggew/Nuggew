@@ -40,7 +40,7 @@
 
 ##
 
-<p align="center">$${\color{red}01}/{\color{yellow}24}$$</p>
+<a href="https://www.eventim.com.br/event/twenty-one-pilots-farmasi-arena-18669782/"><p align="center">$${\color{red}01}/{\color{yellow}24}$$</p></a>
 
 <!--###
 
