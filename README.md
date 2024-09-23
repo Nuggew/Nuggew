@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Nuggew! 👋</h2>
+<h2 align="center">𝗛𝗶, 𝗜'𝗺 𝗡𝘂𝗴𝗴𝗲𝘄! 👋</h2>
 
 
 
@@ -39,6 +39,8 @@
 </div>
 
 ##
+
+<p align="center">$${\color{red}01}/{\color{yellow}24}$$</p>
 
 <!--###
 
