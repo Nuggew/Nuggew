@@ -1,4 +1,4 @@
-<h2 align="center">𝗛𝗶, 𝗜'𝗺 𝗡𝘂𝗴𝗴𝗲𝘄! 👋</h2>
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=30&letterSpacing=0px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9D%97%9B%F0%9D%97%B6%2C+%F0%9D%97%9C'%F0%9D%97%BA+%F0%9D%97%A1%F0%9D%98%82%F0%9D%97%B4%F0%9D%97%B4%F0%9D%97%B2%F0%9D%98%84!+%F0%9F%91%8B"></h2>
 
 
 
