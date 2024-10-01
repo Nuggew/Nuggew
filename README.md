@@ -7,20 +7,23 @@
 <div align="center">
 <img height="150" src="https://github.com/Nuggew/Nuggew/blob/main/me_irl.webp?raw=true"  />
 
+<!--"alt"s not really being used-->
 <div>
+  <a href="https://www.nodejs.org"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" height="30" alt="Node.JS"  ></a>
   <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></a>
-  <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  /></a>
-  <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /></a>
-  <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  /></a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  /></a>
-  <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  /></a>
-  <a href="https://www.lua.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  /></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  /></a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  /></a>
-  <a href="https://visualstudio.microsoft.com/en-us/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  /></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  /></a>
-  <a href="https://unity.com/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  /></a>
+  <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"  /></a>
+  <a href="https://html.spec.whatwg.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"  /></a>
+  <a href="https://www.w3.org/TR/css3-roadmap/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3"  /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python"  /></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#"  /></a>
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"  /></a>
+  <a href="https://www.lua.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="LUA"  /></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP"  /></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET"  /></a>
+  <a href="https://visualstudio.microsoft.com/en-us/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="Visual Studio"  /></a>
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode"  /></a>
+  <a href="https://unity.com/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity"  /></a>
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"  ></a>
 </div>
 </div>
 
@@ -32,6 +35,11 @@
 </div>
 
 ###
+
+<div align="center">
+  <h3>Learning...</h3>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30"></img></a>
+</div>
 
 <div align="center">
   <h3>What am I listening to?</h3>
