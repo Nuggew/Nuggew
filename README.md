@@ -27,7 +27,12 @@
 </div>
 </div>
 
-###
+<div align="center">
+  <h3>Learning...</h3>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30"></img></a>
+</div>
+
+##
 
 <div align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Nuggew&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  /></a>
@@ -35,11 +40,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <h3>Learning...</h3>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30"></img></a>
-</div>
 
 <div align="center">
   <h3>What am I listening to?</h3>
