@@ -26,8 +26,6 @@
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VSCode"  /></a>
   <a href="https://unity.com/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity"  /></a>
   <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"  ></a>
-  <br>
-  <a href="https://www.markdownguide.org" target="_blank"><img src="https://www.markdownguide.org/assets/images/markdown-mark-white.svg" height="30" width="30" alt="Markdown"  /></a>
 </div>
 </div>
 
