@@ -50,7 +50,7 @@
 
 ##
 
-<img src="https://raw.githubusercontent.com/Nuggew/Nuggew/refs/heads/main/github-user-contribution.svg"/>
+<img src="https://raw.githubusercontent.com/Nuggew/Nuggew/c4905643bc6997885334fc6762c14d5103c22658/github-user-contribution.svg"/>
 
 <!--<div><p align="center">$${\color{red}01}/{\color{yellow}24}$$</p></div>-->
 
