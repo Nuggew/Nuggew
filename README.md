@@ -5,7 +5,7 @@
 ###
 
 <div align="center">
-<a href="#"><img height="150" src="https://github.com/Nuggew/Nuggew/blob/main/me_irl.webp?raw=true"  /></a>
+<!--<a href="#"><img height="150" src="https://github.com/Nuggew/Nuggew/blob/main/me_irl.webp?raw=true"  /></a>-->
 
 <!--"alt"s not really being used-->
 <div>
