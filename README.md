@@ -46,6 +46,7 @@
 <div align="center">
   <h3>What am I listening to?</h3>
   <a href="https://github-ytmusic-status.vercel.app/api/goto?username=Nuggew" target="_blank"><img src="https://github-ytmusic-status.vercel.app/?username=Nuggew"></img></a>
+  <p>Made by Nuggew. Powered by <a href="https://vercel.com">Vercel</a>.</p>
 </div>
 
 ##
