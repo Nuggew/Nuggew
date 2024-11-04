@@ -1,13 +1,10 @@
 <h2 align="center"><a href="#"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=700&size=30&letterSpacing=0px&duration=2500&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=true&width=435&lines=%F0%9D%97%9B%F0%9D%97%B6%2C+%F0%9D%97%9C'%F0%9D%97%BA+%F0%9D%97%A1%F0%9D%98%82%F0%9D%97%B4%F0%9D%97%B4%F0%9D%97%B2%F0%9D%98%84!+%F0%9F%91%8B"></a></h2>
 
-
-
 ###
 
 <div align="center">
-<!--<a href="#"><img height="150" src="https://github.com/Nuggew/Nuggew/blob/main/me_irl.webp?raw=true"  /></a>-->
 
-<!--"alt"s not really being used-->
+<!--"alt"s not really being used lol :P-->
 <div>
   <a href="https://www.nodejs.org"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" height="30" alt="Node.JS"  ></a>
   <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  /></a>
@@ -50,30 +47,3 @@
 </div>
 
 ##
-
-<!--<div align="center"><img src="https://raw.githubusercontent.com/Nuggew/Nuggew/c4905643bc6997885334fc6762c14d5103c22658/github-user-contribution.svg"/></div>-->
-
-<div><p align="center">$${\color{red}01}/{\color{yellow}24}$$</p></div>
-
-<!--###
-
-<a href="#">
-<div align="left">
-  <a href="https://www.youtube.com/@nuggew"><img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
-  <a href="https://www.instagram.com/nuggeew"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="https://www.twitch.tv/nuggew"><img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
-  <a href="https://www.linkedin.com/in/nuggew"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-</div>
-</a>-->
-
-<!--###
-
-<br clear="both">
-
-###
-
-<div align="center">
-  <a href="#"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Nuggew&radius=16&theme=synthwave-84&area=true&order=5" height="300" alt="activity-graph graph"  /></a>
-</div>
-
-###-->
