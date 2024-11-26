@@ -5,6 +5,7 @@
 <div align="center">
 
 <!--"alt"s not really being used lol :P-->
+<kbd>
 <div>
   <a href="https://www.nodejs.org"><img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" height="30" alt="Node.JS"  ></a>
   <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript"  /></a>
@@ -27,10 +28,13 @@
   <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"  ></a>
 </div>
 </div>
+</kbd>
 
 <div align="center">
   <h3>Learning...</h3>
+<kbd>
   <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30"></img></a>
+</kbd>
 </div>
 
 ##
