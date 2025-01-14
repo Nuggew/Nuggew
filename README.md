@@ -39,6 +39,7 @@
   <h3>Learning...</h3>
 <kbd>
   <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30"></img></a>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"></img></a>
 </kbd>
 </div>
 
