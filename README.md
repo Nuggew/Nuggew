@@ -38,8 +38,8 @@
 <div align="center">
   <h3>Learning...</h3>
 <kbd>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30"></img></a>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"></img></a>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust"></img></a>
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C/C++"></img></a>
 </kbd>
 </div>
 
