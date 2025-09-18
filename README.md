@@ -30,6 +30,7 @@
   <a href="https://react.dev" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React"  /></a>
   <a href="https://unity.com/en" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="Unity"  /></a>
   <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"  ></a>
+  <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"  ></a>
 </div>
 
 <div align="center">
@@ -51,4 +52,5 @@
   <a href="https://github-ytmusic-status.vercel.app/api/goto?username=Nuggew" target="_blank"><img src="https://github-ytmusic-status.vercel.app/?username=Nuggew"></img></a>
   <p>Made by Nuggew. Powered by <a href="https://vercel.com">Vercel</a>.</p>
 </div>
+
 
