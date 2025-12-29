@@ -33,25 +33,14 @@
   <a href="https://www.postgresql.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"  ></a>
 </div>
 
-<div align="center">
-  <h3>Learning...</h3>
-  <a href="https://www.rust-lang.org" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust"></img></a>
-</div>
-
 ##
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=Nuggew&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  /></a>
-  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  /></a>
-</div>
-
-###
-
-<div align="center">
-  <h3>What am I listening to?</h3>
+  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=Nuggew&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="stats graph"  /></a>
+  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="languages graph"  /></a>
   <a href="https://github-ytmusic-status.vercel.app/api/goto?username=Nuggew" target="_blank"><img src="https://github-ytmusic-status.vercel.app/?username=Nuggew"></img></a>
-  <p>I made this :3</p>
 </div>
+
 
 
 
