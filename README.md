@@ -41,8 +41,8 @@
 ##
 
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Nuggew&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  /></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  /></a>
+  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=Nuggew&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  /></a>
+  <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  /></a>
 </div>
 
 ###
@@ -50,7 +50,8 @@
 <div align="center">
   <h3>What am I listening to?</h3>
   <a href="https://github-ytmusic-status.vercel.app/api/goto?username=Nuggew" target="_blank"><img src="https://github-ytmusic-status.vercel.app/?username=Nuggew"></img></a>
-  <p>Made by Nuggew. Powered by <a href="https://vercel.com">Vercel</a>.</p>
+  <p>I made this :3</p>
 </div>
+
 
 
