@@ -38,8 +38,8 @@
 <div align="center">
   <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api?username=Nuggew&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="stats graph"  /></a>
   <a href="#"><img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=Nuggew&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&show_icons=true&hide_border=true" height="150" alt="languages graph"  /></a>
-  <a href="https://github-ytmusic-status.vercel.app/api/goto?username=Nuggew" target="_blank"><img src="https://github-ytmusic-status.vercel.app/?username=Nuggew"></img></a>
-</div>
+  <!--<a href="https://github-ytmusic-status.vercel.app/api/goto?username=Nuggew" target="_blank"><img src="https://github-ytmusic-status.vercel.app/?username=Nuggew"></img></a>
+</div>-->
 
 
 
